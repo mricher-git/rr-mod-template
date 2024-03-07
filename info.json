@@ -1,0 +1,10 @@
+{
+	"Id": "MOD_NAME",
+	"Version": "1.0.0",
+	"DisplayName": "MOD_NAME",
+	"Author": "MOD_AUTHOR",
+	"EntryMethod": "MOD_NAME.UMM.Loader.Load",
+	"ManagerVersion": "0.27.12",
+	"HomePage": "https://www.nexusmods.com/railroader/mods/XXX/",
+	"Repository": "https://raw.githubusercontent.com/OWNER/REPOSITORY/master/repository.json"
+}
